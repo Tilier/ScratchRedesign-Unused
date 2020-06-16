@@ -1,4 +1,4 @@
-$.getJSON("https://api.scratch.mit.edu/proxy/featured/", function(udata) {
+$.getJSON("https://cors-anywhere.herokuapp.com/https://api.scratch.mit.edu/proxy/featured/", function(udata) {
     var data = udata.curator_top_projects;
     console.log(data);
     var itemone = data[1];
