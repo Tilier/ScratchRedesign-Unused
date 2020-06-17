@@ -16,6 +16,10 @@
 :root {
     --blue: rgb(64, 139, 231);
 }
+
+html {
+	-webkit-font-smoothing: antialiased;	
+}
   
 button, input {
     font-family: "Gilroy", sans-serif;
