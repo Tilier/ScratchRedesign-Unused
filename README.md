@@ -10,4 +10,5 @@ If you want to help us with out mission, you must:
   2. Be a Scratch user.
   3. Agree to put a lot of effort in to this project - at least one commit per day.
   4. At least know HTML and CSS. We'd love it if we had some JavaScript coders on board also, though!
-If all of these apply to you, then you can join! Go to the pull requests tab.
+  
+If all of these apply to you, then you can join!
