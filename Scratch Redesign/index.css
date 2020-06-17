@@ -149,14 +149,14 @@ a {
     padding: 300px 100px;
     width: calc(100% - 200px);
     padding-bottom: 200px;
+	display: flex;
+	align-items: center;
 }
 
 .header .headcontentyeah {
     width: 40vw;
     min-width: 400px;
     color: var(--blue);
-    top: 50%;
-    transform: translateY(-50%);
     position: relative;
 }
 
