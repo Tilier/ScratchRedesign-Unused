@@ -17,6 +17,8 @@
     --blue: rgb(64, 139, 231);
 }
 
+/* For Safari */
+
 html {
     -webkit-font-smoothing: antialiased;
 }
